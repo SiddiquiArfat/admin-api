@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Gertrudis Tatterton",
+      "password": "1234",
+      "email": "admin@123"
+    },
+    {
+      "id": 2,
+      "name": "Gail Newbatt",
+      "password": "1234",
+      "email": "admin@123"
+    }
+  ]
+}
